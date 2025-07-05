@@ -1,0 +1,9 @@
+.box{
+    padding: 100px;
+    background-color: blue;
+    display: inline-flex;
+    border-radius: 9px;
+}
+.par{
+    margin-bottom: 5px;
+}
