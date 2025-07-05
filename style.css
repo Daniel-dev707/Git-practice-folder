@@ -1,9 +1,28 @@
-.box{
-    padding: 100px;
-    background-color: blue;
-    display: inline-flex;
-    border-radius: 9px;
+p{
+    padding: 10px;
+    background-color: rgb(135, 135, 198);
+    border: 3px solid;
+    border-radius: 5px;
+    border-color: rgb(53, 50, 50);
 }
-.par{
-    margin-bottom: 5px;
+.box{
+    width: 200px;
+    height: 150px;
+    background-color: aqua;
+    border-radius: 5px;
+    font-size: 2em;
+    font-family: sans-serif;
+    text-align: center;
+    box-shadow: 1px 1px blue;
+}
+h4{
+    text-align: center;
+    border: 3px solid;
+    font-family: sans-serif;
+}
+h1{
+    text-align: center;
+    font-family: sans-serif;
+    border: 3px solid ;
+    display: block;
 }
